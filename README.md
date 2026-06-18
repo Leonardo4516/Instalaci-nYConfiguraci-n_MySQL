@@ -15,7 +15,7 @@ A continuación se describen los pasos seguidos para instalar **MySQL Server** y
 2. **Configuración de usuario y contraseña:** Durante el proceso de instalación se configuró la contraseña del usuario `root`, el cual se utiliza para administrar el servidor.
 3. **Finalización:** Se completó la instalación de MySQL Server junto con MySQL Workbench, y se verificó que el servicio del servidor quedara activo.
 
-> *(Reemplaza este texto con el detalle real de tu instalación: complicaciones que tuviste, decisiones de configuración, puerto utilizado, etc.)*
+> *Tuve unos inconvenientes al momento de la instalación por que el video del cuál estaba obteniendo el paso a paso que se nos suministró, no estaba del todo igual a mi proceso de intalación, entonces tuve que pedirle ayuda a una IA para poder continuar de manera correcta.*
 
 ---
 
