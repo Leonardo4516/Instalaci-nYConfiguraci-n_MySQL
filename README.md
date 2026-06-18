@@ -2,9 +2,8 @@
 
 ## 👤 Información del Estudiante
 
-- **Nombre completo:** [Tu Nombre Completo]
-- **Sistema Operativo:** [Windows / Linux]
-- **Fecha de instalación:** [DD/MM/AAAA]
+- **Nombre completo:** Leonardo Andrés Hernández Hernández
+- **Sistema Operativo:** Windows
 
 ---
 
@@ -23,13 +22,10 @@ A continuación se describen los pasos seguidos para instalar **MySQL Server** y
 ## 🖼️ Galería de Evidencias
 
 ### Captura 1: Instalador / Descarga completada
-![Instalador de MySQL](./img/captura1.png)
 
 ### Captura 2: Configuración de la contraseña del usuario root
-![Configuración de contraseña root](./img/captura2.png)
 
 ### Captura 3: MySQL Workbench - Conexión "Local Instance" creada
-![Conexión Local Instance en MySQL Workbench](./img/captura3.png)
 
 ---
 
@@ -45,8 +41,6 @@ SELECT VERSION() AS 'Versión de MySQL',
 ```
 
 **Resultado de la consulta:**
-
-![Resultado de la consulta de validación](./img/validacion.png)
 
 ---
 
