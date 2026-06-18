@@ -40,7 +40,7 @@ SELECT VERSION() AS 'Versión de MySQL',
        NOW() AS 'Fecha y Hora del Servidor';
 ```
 
-**Resultado de la consulta:**
+**Resultado de la consulta en la carpeta de evidencias.**
 
 ---
 
